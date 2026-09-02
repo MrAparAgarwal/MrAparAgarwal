@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Physics, Scientific Research, C++**
 
-- 📫 How to reach me **apar.2010big@gmail.com**
+- 📫 How to reach me **draparagarwal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/apar-agarwal/](https://www.linkedin.com/in/apar-agarwal/)
 
