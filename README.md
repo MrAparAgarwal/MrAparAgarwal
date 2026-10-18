@@ -14,7 +14,7 @@
 - I'm a **Senior Data Consultant at Luxoft-DXC** in Kuala Lumpur, building and validating regulatory-reporting data flows for central-bank submissions in Singapore, Thailand, Vietnam and Hong Kong.
 - I hold a **PhD in Physical Sciences** from Homi Bhabha National Institute. I did my research at the Variable Energy Cyclotron Centre (VECC), Kolkata, on the GEM-based Muon Chamber (MuCh) of the **CBM experiment at FAIR**.
 - During my PhD I worked with large, free-streaming detector datasets: noise and time-offset calibration, clustering, time correlations across subsystems, and detector-performance studies under high-rate conditions.
-- I like problems where careful data work turns noisy raw input into something reliable, whether that's detector hits or banking data.
+- I specialise in data validation, reconciliation and analytical problem-solving, and I bring the rigour of experimental research to data quality and regulatory compliance in financial services.
 
 ### Research highlights
 
